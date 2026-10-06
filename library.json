@@ -1,0 +1,1000 @@
+{
+    "books": [
+        {
+            "BookID": "B0001",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "copy": 5
+        },
+        {
+            "BookID": "B0002",
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "copy": 4
+        },
+        {
+            "BookID": "B0003",
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Science Fiction",
+            "copy": 6
+        },
+        {
+            "BookID": "B0004",
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "genre": "Fiction",
+            "copy": 3
+        },
+        {
+            "BookID": "B0005",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "copy": 5
+        },
+        {
+            "BookID": "B0006",
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "copy": 3
+        },
+        {
+            "BookID": "B0007",
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "copy": 7
+        },
+        {
+            "BookID": "B0008",
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "copy": 4
+        },
+        {
+            "BookID": "B0009",
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "genre": "Science Fiction",
+            "copy": 5
+        },
+        {
+            "BookID": "B0010",
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Science Fiction",
+            "copy": 4
+        },
+        {
+            "BookID": "B0011",
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "genre": "Science Fiction",
+            "copy": 6
+        },
+        {
+            "BookID": "B0012",
+            "title": "Neuromancer",
+            "author": "William Gibson",
+            "genre": "Science Fiction",
+            "copy": 3
+        },
+        {
+            "BookID": "B0013",
+            "title": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "genre": "Fantasy",
+            "copy": 4
+        },
+        {
+            "BookID": "B0014",
+            "title": "A Game of Thrones",
+            "author": "George R.R. Martin",
+            "genre": "Fantasy",
+            "copy": 5
+        },
+        {
+            "BookID": "B0015",
+            "title": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "genre": "Fantasy",
+            "copy": 3
+        },
+        {
+            "BookID": "B0016",
+            "title": "Mistborn",
+            "author": "Brandon Sanderson",
+            "genre": "Fantasy",
+            "copy": 4
+        },
+        {
+            "BookID": "B0017",
+            "title": "The Lies of Locke Lamora",
+            "author": "Scott Lynch",
+            "genre": "Fantasy",
+            "copy": 3
+        },
+        {
+            "BookID": "B0018",
+            "title": "The Girl with the Dragon Tattoo",
+            "author": "Stieg Larsson",
+            "genre": "Mystery",
+            "copy": 4
+        },
+        {
+            "BookID": "B0019",
+            "title": "Gone Girl",
+            "author": "Gillian Flynn",
+            "genre": "Thriller",
+            "copy": 5
+        },
+        {
+            "BookID": "B0020",
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "genre": "Thriller",
+            "copy": 6
+        },
+        {
+            "BookID": "B0021",
+            "title": "Angels and Demons",
+            "author": "Dan Brown",
+            "genre": "Thriller",
+            "copy": 4
+        },
+        {
+            "BookID": "B0022",
+            "title": "The Silence of the Lambs",
+            "author": "Thomas Harris",
+            "genre": "Thriller",
+            "copy": 3
+        },
+        {
+            "BookID": "B0023",
+            "title": "The Shining",
+            "author": "Stephen King",
+            "genre": "Horror",
+            "copy": 5
+        },
+        {
+            "BookID": "B0024",
+            "title": "It",
+            "author": "Stephen King",
+            "genre": "Horror",
+            "copy": 4
+        },
+        {
+            "BookID": "B0025",
+            "title": "Carrie",
+            "author": "Stephen King",
+            "genre": "Horror",
+            "copy": 3
+        },
+        {
+            "BookID": "B0026",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "genre": "Horror",
+            "copy": 4
+        },
+        {
+            "BookID": "B0027",
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "genre": "Horror",
+            "copy": 5
+        },
+        {
+            "BookID": "B0028",
+            "title": "The Haunting of Hill House",
+            "author": "Shirley Jackson",
+            "genre": "Horror",
+            "copy": 3
+        },
+        {
+            "BookID": "B0029",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "genre": "History",
+            "copy": 6
+        },
+        {
+            "BookID": "B0030",
+            "title": "Homo Deus",
+            "author": "Yuval Noah Harari",
+            "genre": "History",
+            "copy": 4
+        },
+        {
+            "BookID": "B0031",
+            "title": "Guns, Germs, and Steel",
+            "author": "Jared Diamond",
+            "genre": "History",
+            "copy": 3
+        },
+        {
+            "BookID": "B0032",
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "genre": "Science",
+            "copy": 5
+        },
+        {
+            "BookID": "B0033",
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "genre": "Science",
+            "copy": 4
+        },
+        {
+            "BookID": "B0034",
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "genre": "Science",
+            "copy": 3
+        },
+        {
+            "BookID": "B0035",
+            "title": "Thinking, Fast and Slow",
+            "author": "Daniel Kahneman",
+            "genre": "Non-Fiction",
+            "copy": 5
+        },
+        {
+            "BookID": "B0036",
+            "title": "Outliers",
+            "author": "Malcolm Gladwell",
+            "genre": "Non-Fiction",
+            "copy": 4
+        },
+        {
+            "BookID": "B0037",
+            "title": "Blink",
+            "author": "Malcolm Gladwell",
+            "genre": "Non-Fiction",
+            "copy": 3
+        },
+        {
+            "BookID": "B0038",
+            "title": "The Tipping Point",
+            "author": "Malcolm Gladwell",
+            "genre": "Non-Fiction",
+            "copy": 4
+        },
+        {
+            "BookID": "B0039",
+            "title": "Educated",
+            "author": "Tara Westover",
+            "genre": "Biography",
+            "copy": 5
+        },
+        {
+            "BookID": "B0040",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "genre": "Biography",
+            "copy": 6
+        },
+        {
+            "BookID": "B0041",
+            "title": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "genre": "Biography",
+            "copy": 4
+        },
+        {
+            "BookID": "B0042",
+            "title": "Steve Jobs",
+            "author": "Walter Isaacson",
+            "genre": "Biography",
+            "copy": 3
+        },
+        {
+            "BookID": "B0043",
+            "title": "Meditations",
+            "author": "Marcus Aurelius",
+            "genre": "Philosophy",
+            "copy": 5
+        },
+        {
+            "BookID": "B0044",
+            "title": "The Republic",
+            "author": "Plato",
+            "genre": "Philosophy",
+            "copy": 3
+        },
+        {
+            "BookID": "B0045",
+            "title": "Nicomachean Ethics",
+            "author": "Aristotle",
+            "genre": "Philosophy",
+            "copy": 3
+        },
+        {
+            "BookID": "B0046",
+            "title": "Beyond Good and Evil",
+            "author": "Friedrich Nietzsche",
+            "genre": "Philosophy",
+            "copy": 4
+        },
+        {
+            "BookID": "B0047",
+            "title": "Leaves of Grass",
+            "author": "Walt Whitman",
+            "genre": "Poetry",
+            "copy": 3
+        },
+        {
+            "BookID": "B0048",
+            "title": "The Waste Land",
+            "author": "T.S. Eliot",
+            "genre": "Poetry",
+            "copy": 4
+        },
+        {
+            "BookID": "B0049",
+            "title": "Milk and Honey",
+            "author": "Rupi Kaur",
+            "genre": "Poetry",
+            "copy": 6
+        },
+        {
+            "BookID": "B0050",
+            "title": "Where the Sidewalk Ends",
+            "author": "Shel Silverstein",
+            "genre": "Children",
+            "copy": 5
+        },
+        {
+            "BookID": "B0051",
+            "title": "Charlotte's Web",
+            "author": "E.B. White",
+            "genre": "Children",
+            "copy": 4
+        },
+        {
+            "BookID": "B0052",
+            "title": "The Giving Tree",
+            "author": "Shel Silverstein",
+            "genre": "Children",
+            "copy": 5
+        },
+        {
+            "BookID": "B0053",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "copy": 7
+        },
+        {
+            "BookID": "B0054",
+            "title": "The Chronicles of Narnia",
+            "author": "C.S. Lewis",
+            "genre": "Fantasy",
+            "copy": 4
+        },
+        {
+            "BookID": "B0055",
+            "title": "The Little Prince",
+            "author": "Antoine de Saint-Exupery",
+            "genre": "Children",
+            "copy": 6
+        }
+    ],
+    "borrowed": [
+        {
+            "BookID": "B0003",
+            "title": "1984",
+            "author": "George Orwell",
+            "MemberID": "M0002",
+            "genre": "Science Fiction",
+            "borrower": "Maria Santos",
+            "contact": "09171234502",
+            "borrowed": "2026-09-25T09:15:00",
+            "due": "2026-10-09T09:15:00"
+        },
+        {
+            "BookID": "B0007",
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "MemberID": "M0005",
+            "genre": "Fantasy",
+            "borrower": "Ana Reyes",
+            "contact": "09171234505",
+            "borrowed": "2026-09-20T14:40:00",
+            "due": "2026-10-04T14:40:00"
+        },
+        {
+            "BookID": "B0011",
+            "title": "Dune",
+            "author": "Frank Herbert",
+            "MemberID": "M0008",
+            "genre": "Science Fiction",
+            "borrower": "Pedro Bautista",
+            "contact": "09171234508",
+            "borrowed": "2026-09-28T10:05:00",
+            "due": "2026-10-12T10:05:00"
+        },
+        {
+            "BookID": "B0014",
+            "title": "A Game of Thrones",
+            "author": "George R.R. Martin",
+            "MemberID": "M0012",
+            "genre": "Fantasy",
+            "borrower": "Carlo Mendoza",
+            "contact": "09171234512",
+            "borrowed": "2026-10-01T16:20:00",
+            "due": "2026-10-15T16:20:00"
+        },
+        {
+            "BookID": "B0023",
+            "title": "The Shining",
+            "author": "Stephen King",
+            "MemberID": "M0019",
+            "genre": "Horror",
+            "borrower": "Rico Aquino",
+            "contact": "09171234519",
+            "borrowed": "2026-09-15T11:00:00",
+            "due": "2026-09-29T11:00:00"
+        },
+        {
+            "BookID": "B0029",
+            "title": "Sapiens",
+            "author": "Yuval Noah Harari",
+            "MemberID": "M0023",
+            "genre": "History",
+            "borrower": "Liza Fernandez",
+            "contact": "09171234523",
+            "borrowed": "2026-09-30T08:30:00",
+            "due": "2026-10-14T08:30:00"
+        },
+        {
+            "BookID": "B0040",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "MemberID": "M0031",
+            "genre": "Biography",
+            "borrower": "Nina Villanueva",
+            "contact": "09171234531",
+            "borrowed": "2026-10-02T13:45:00",
+            "due": "2026-10-16T13:45:00"
+        },
+        {
+            "BookID": "B0053",
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "MemberID": "M0044",
+            "genre": "Fantasy",
+            "borrower": "Kim Torres",
+            "contact": "09171234544",
+            "borrowed": "2026-09-27T15:10:00",
+            "due": "2026-10-11T15:10:00"
+        }
+    ],
+    "returned": [
+        {
+            "BookID": "B0001",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "MemberID": "M0003",
+            "borrower": "Jose Ramos",
+            "contact": "09171234503",
+            "borrowed": "2026-09-01T09:00:00",
+            "due": "2026-09-15T09:00:00",
+            "returned": "2026-09-12T10:15:00"
+        },
+        {
+            "BookID": "B0005",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "MemberID": "M0007",
+            "borrower": "Mark Lopez",
+            "contact": "09171234507",
+            "borrowed": "2026-08-20T13:30:00",
+            "due": "2026-09-03T13:30:00",
+            "returned": "2026-09-05T11:00:00"
+        },
+        {
+            "BookID": "B0020",
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "genre": "Thriller",
+            "MemberID": "M0010",
+            "borrower": "Grace Navarro",
+            "contact": "09171234510",
+            "borrowed": "2026-09-10T15:00:00",
+            "due": "2026-09-24T15:00:00",
+            "returned": "2026-09-22T09:45:00"
+        },
+        {
+            "BookID": "B0032",
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "genre": "Science",
+            "MemberID": "M0015",
+            "borrower": "Ramon Castillo",
+            "contact": "09171234515",
+            "borrowed": "2026-09-05T11:20:00",
+            "due": "2026-09-19T11:20:00",
+            "returned": "2026-09-18T14:00:00"
+        },
+        {
+            "BookID": "B0049",
+            "title": "Milk and Honey",
+            "author": "Rupi Kaur",
+            "genre": "Poetry",
+            "MemberID": "M0028",
+            "borrower": "Ella Domingo",
+            "contact": "09171234528",
+            "borrowed": "2026-09-08T08:00:00",
+            "due": "2026-09-22T08:00:00",
+            "returned": "2026-09-21T16:30:00"
+        }
+    ],
+    "dead": [
+        {
+            "BookID": "B0012",
+            "title": "Neuromancer",
+            "author": "William Gibson",
+            "genre": "Science Fiction",
+            "MemberID": "M0017",
+            "borrower": "Dennis Salazar",
+            "contact": "09171234517",
+            "due": "2026-08-15T10:00:00",
+            "status": "Lost",
+            "fee": 500,
+            "paid": false,
+            "logged": "2026-08-20T09:30:00"
+        },
+        {
+            "BookID": "B0026",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "genre": "Horror",
+            "MemberID": "M0024",
+            "borrower": "Sophia Gutierrez",
+            "contact": "09171234524",
+            "due": "2026-08-01T14:00:00",
+            "status": "Damaged",
+            "fee": 500,
+            "paid": true,
+            "logged": "2026-08-08T11:15:00"
+        },
+        {
+            "BookID": "B0041",
+            "title": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "genre": "Biography",
+            "MemberID": "M0037",
+            "borrower": "Ferdinand Cruz",
+            "contact": "09171234537",
+            "due": "2026-09-10T09:00:00",
+            "status": "Lost",
+            "fee": 500,
+            "paid": false,
+            "logged": "2026-09-18T15:45:00"
+        }
+    ],
+    "settings": {
+        "max_copy": 50,
+        "due_days": 14,
+        "max_title": 50,
+        "max_author": 25,
+        "initial_fine": 50,
+        "max_borrow": 3,
+        "missed_fine": 5,
+        "compensation_fee": 500
+    },
+    "members": [
+        {
+            "MemberID": "M0001",
+            "first_name": "Juan",
+            "last_name": "Dela Cruz",
+            "contact": "09171234501",
+            "active": true
+        },
+        {
+            "MemberID": "M0002",
+            "first_name": "Maria",
+            "last_name": "Santos",
+            "contact": "09171234502",
+            "active": true
+        },
+        {
+            "MemberID": "M0003",
+            "first_name": "Jose",
+            "last_name": "Ramos",
+            "contact": "09171234503",
+            "active": true
+        },
+        {
+            "MemberID": "M0004",
+            "first_name": "Andres",
+            "last_name": "Bonifacio",
+            "contact": "09171234504",
+            "active": true
+        },
+        {
+            "MemberID": "M0005",
+            "first_name": "Ana",
+            "last_name": "Reyes",
+            "contact": "09171234505",
+            "active": true
+        },
+        {
+            "MemberID": "M0006",
+            "first_name": "Luis",
+            "last_name": "Garcia",
+            "contact": "09171234506",
+            "active": true
+        },
+        {
+            "MemberID": "M0007",
+            "first_name": "Mark",
+            "last_name": "Lopez",
+            "contact": "09171234507",
+            "active": true
+        },
+        {
+            "MemberID": "M0008",
+            "first_name": "Pedro",
+            "last_name": "Bautista",
+            "contact": "09171234508",
+            "active": true
+        },
+        {
+            "MemberID": "M0009",
+            "first_name": "Carmen",
+            "last_name": "Flores",
+            "contact": "09171234509",
+            "active": true
+        },
+        {
+            "MemberID": "M0010",
+            "first_name": "Grace",
+            "last_name": "Navarro",
+            "contact": "09171234510",
+            "active": true
+        },
+        {
+            "MemberID": "M0011",
+            "first_name": "Miguel",
+            "last_name": "Torres",
+            "contact": "09171234511",
+            "active": true
+        },
+        {
+            "MemberID": "M0012",
+            "first_name": "Carlo",
+            "last_name": "Mendoza",
+            "contact": "09171234512",
+            "active": true
+        },
+        {
+            "MemberID": "M0013",
+            "first_name": "Bea",
+            "last_name": "Alonzo",
+            "contact": "09171234513",
+            "active": true
+        },
+        {
+            "MemberID": "M0014",
+            "first_name": "Rafael",
+            "last_name": "Ocampo",
+            "contact": "09171234514",
+            "active": true
+        },
+        {
+            "MemberID": "M0015",
+            "first_name": "Ramon",
+            "last_name": "Castillo",
+            "contact": "09171234515",
+            "active": true
+        },
+        {
+            "MemberID": "M0016",
+            "first_name": "Isabel",
+            "last_name": "Velasco",
+            "contact": "09171234516",
+            "active": true
+        },
+        {
+            "MemberID": "M0017",
+            "first_name": "Dennis",
+            "last_name": "Salazar",
+            "contact": "09171234517",
+            "active": true
+        },
+        {
+            "MemberID": "M0018",
+            "first_name": "Teresa",
+            "last_name": "Aguilar",
+            "contact": "09171234518",
+            "active": true
+        },
+        {
+            "MemberID": "M0019",
+            "first_name": "Rico",
+            "last_name": "Aquino",
+            "contact": "09171234519",
+            "active": true
+        },
+        {
+            "MemberID": "M0020",
+            "first_name": "Patricia",
+            "last_name": "Rivera",
+            "contact": "09171234520",
+            "active": true
+        },
+        {
+            "MemberID": "M0021",
+            "first_name": "Emilio",
+            "last_name": "Aguinaldo",
+            "contact": "09171234521",
+            "active": true
+        },
+        {
+            "MemberID": "M0022",
+            "first_name": "Luz",
+            "last_name": "Jimenez",
+            "contact": "09171234522",
+            "active": true
+        },
+        {
+            "MemberID": "M0023",
+            "first_name": "Liza",
+            "last_name": "Fernandez",
+            "contact": "09171234523",
+            "active": true
+        },
+        {
+            "MemberID": "M0024",
+            "first_name": "Sophia",
+            "last_name": "Gutierrez",
+            "contact": "09171234524",
+            "active": true
+        },
+        {
+            "MemberID": "M0025",
+            "first_name": "Antonio",
+            "last_name": "Luna",
+            "contact": "09171234525",
+            "active": true
+        },
+        {
+            "MemberID": "M0026",
+            "first_name": "Cristina",
+            "last_name": "Pascual",
+            "contact": "09171234526",
+            "active": true
+        },
+        {
+            "MemberID": "M0027",
+            "first_name": "Hector",
+            "last_name": "Reyes",
+            "contact": "09171234527",
+            "active": true
+        },
+        {
+            "MemberID": "M0028",
+            "first_name": "Ella",
+            "last_name": "Domingo",
+            "contact": "09171234528",
+            "active": true
+        },
+        {
+            "MemberID": "M0029",
+            "first_name": "Gabriel",
+            "last_name": "Soriano",
+            "contact": "09171234529",
+            "active": true
+        },
+        {
+            "MemberID": "M0030",
+            "first_name": "Camille",
+            "last_name": "Cortez",
+            "contact": "09171234530",
+            "active": true
+        },
+        {
+            "MemberID": "M0031",
+            "first_name": "Nina",
+            "last_name": "Villanueva",
+            "contact": "09171234531",
+            "active": true
+        },
+        {
+            "MemberID": "M0032",
+            "first_name": "Victor",
+            "last_name": "Buenaventura",
+            "contact": "09171234532",
+            "active": true
+        },
+        {
+            "MemberID": "M0033",
+            "first_name": "Diana",
+            "last_name": "Roxas",
+            "contact": "09171234533",
+            "active": true
+        },
+        {
+            "MemberID": "M0034",
+            "first_name": "Felipe",
+            "last_name": "Ledesma",
+            "contact": "09171234534",
+            "active": true
+        },
+        {
+            "MemberID": "M0035",
+            "first_name": "Bianca",
+            "last_name": "Yulo",
+            "contact": "09171234535",
+            "active": true
+        },
+        {
+            "MemberID": "M0036",
+            "first_name": "Renato",
+            "last_name": "Corona",
+            "contact": "09171234536",
+            "active": true
+        },
+        {
+            "MemberID": "M0037",
+            "first_name": "Ferdinand",
+            "last_name": "Cruz",
+            "contact": "09171234537",
+            "active": true
+        },
+        {
+            "MemberID": "M0038",
+            "first_name": "Marisol",
+            "last_name": "Panganiban",
+            "contact": "09171234538",
+            "active": true
+        },
+        {
+            "MemberID": "M0039",
+            "first_name": "Oscar",
+            "last_name": "Alvarez",
+            "contact": "09171234539",
+            "active": true
+        },
+        {
+            "MemberID": "M0040",
+            "first_name": "Yvonne",
+            "last_name": "Manalo",
+            "contact": "09171234540",
+            "active": true
+        },
+        {
+            "MemberID": "M0041",
+            "first_name": "Joaquin",
+            "last_name": "Bernardo",
+            "contact": "09171234541",
+            "active": true
+        },
+        {
+            "MemberID": "M0042",
+            "first_name": "Rosario",
+            "last_name": "Ilagan",
+            "contact": "09171234542",
+            "active": true
+        },
+        {
+            "MemberID": "M0043",
+            "first_name": "Alfonso",
+            "last_name": "Trinidad",
+            "contact": "09171234543",
+            "active": true
+        },
+        {
+            "MemberID": "M0044",
+            "first_name": "Kim",
+            "last_name": "Torres",
+            "contact": "09171234544",
+            "active": true
+        },
+        {
+            "MemberID": "M0045",
+            "first_name": "Pia",
+            "last_name": "Cayetano",
+            "contact": "09171234545",
+            "active": true
+        },
+        {
+            "MemberID": "M0046",
+            "first_name": "Bruno",
+            "last_name": "Estrada",
+            "contact": "09171234546",
+            "active": true
+        },
+        {
+            "MemberID": "M0047",
+            "first_name": "Clarissa",
+            "last_name": "Orosa",
+            "contact": "09171234547",
+            "active": true
+        },
+        {
+            "MemberID": "M0048",
+            "first_name": "Diego",
+            "last_name": "Silang",
+            "contact": "09171234548",
+            "active": true
+        },
+        {
+            "MemberID": "M0049",
+            "first_name": "Mikaela",
+            "last_name": "Basa",
+            "contact": "09171234549",
+            "active": true
+        },
+        {
+            "MemberID": "M0050",
+            "first_name": "Enrique",
+            "last_name": "Zobel",
+            "contact": "09171234550",
+            "active": true
+        },
+        {
+            "MemberID": "M0051",
+            "first_name": "Aurora",
+            "last_name": "Quezon",
+            "contact": "09171234551",
+            "active": true
+        },
+        {
+            "MemberID": "M0052",
+            "first_name": "Lorenzo",
+            "last_name": "Tan",
+            "contact": "09171234552",
+            "active": true
+        },
+        {
+            "MemberID": "M0053",
+            "first_name": "Sabrina",
+            "last_name": "Ong",
+            "contact": "09171234553",
+            "active": true
+        },
+        {
+            "MemberID": "M0054",
+            "first_name": "Manuel",
+            "last_name": "Roxas",
+            "contact": "09171234554",
+            "active": true
+        },
+        {
+            "MemberID": "M0055",
+            "first_name": "Corazon",
+            "last_name": "Aquino",
+            "contact": "09171234555",
+            "active": false,
+            "deactivated": "2026-08-30T10:00:00"
+        },
+        {
+            "MemberID": "M0056",
+            "first_name": "John",
+            "last_name": "McLane",
+            "contact": "09310111383",
+            "active": true
+        }
+    ],
+    "users": {
+        "admin": {
+            "password": "admin123",
+            "role": "Administrator"
+        },
+        "librarian": {
+            "password": "lib123",
+            "role": "Librarian"
+        }
+    }
+}
